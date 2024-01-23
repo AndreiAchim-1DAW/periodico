@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: bisque;
+}
+section{
+    margin-top: 10px;
+    position: relative;
+    left: 20%;
+    right: 20%;
+    top: 20%;
+    bottom: 10%;
+    width: 60%;
+    height: 30%;
+    background-color: beige;
+    border: 1px solid black;
+}
+h3, p{
+    padding-left: 5px;
+    text-align: left;
+}
+footer{
+    position: absolute;
+    top: 90%;
+    text-align: right;
+    left: 90%;
+}
